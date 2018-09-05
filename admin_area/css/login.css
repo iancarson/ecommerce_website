@@ -1,0 +1,46 @@
+
+body{
+
+padding-top:10%;
+background-color: teal;
+}
+
+.form-login {
+max-width:350px;
+padding:40px;
+border-radius:30px;
+background:#e9e9e9;
+margin:0 auto;
+
+}
+
+
+.form-login .form-login-heading{
+color:#337ab7;
+text-align:center;
+
+}
+
+.form-login .form-control {
+position:relative;
+height:auto;
+box-sizing:border-box;
+padding:10px;
+font-size:16px;
+
+}
+
+.form-login input[type="text"] {
+margin-bottom:5px;
+border-bottom-right-radius:0;
+border-bottom-left-radius: 0;
+
+}
+
+.form-login input[type="password"] {
+margin-bottom:10px;
+border-top-left-radius: 0;
+border-top-right-radius:0;
+
+
+}
