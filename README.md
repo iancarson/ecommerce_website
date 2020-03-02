@@ -19,6 +19,7 @@ Database Configuration
 ```
 
 
-## Authors
+## Authors & Licence
 
 * **Yasser Dalouzi** - *eCommerce Website* - (https://github.com/yvsser1)
+* This project is open-source feel free to use it as you wish
