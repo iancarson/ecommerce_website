@@ -16,13 +16,7 @@ Create Database named “ecom_store”.
 Import database Database/ecom_store.sql.
 Open Your browser put inside URL:
 “http://localhost/ecommerce-website/”
-To Login as admin put inside URL:”http://localhost/ecommerce-website/admin_panel”
-```
-Admin login details:
-```
-email:ave@user.com
-password:123
-
+To Login as admin put inside URL:”http://localhost/ecommerce-website/admin_area”
 ```
 
 
