@@ -1,11 +1,11 @@
 # ecommerce-website
 Full eCommerce Website with Admin Panel Built with PHP & MySql
 
+PLEASE NOTE THAT THIS PROJECTED IN NOT SUPPORTED BY ME ANYMORE, FEEL FREE TO USE IT AS YOU LIKE
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
- PLEASE NOTE THAT THIS PROJECTED IN NOT SUPPORTED BY ME ANYMORE, FEEL FREE TO USE IT AS YOU LIKE
 
 ### Installing
 
