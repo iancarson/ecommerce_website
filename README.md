@@ -1,4 +1,4 @@
-# ecommerce-website - Full eCommerce Website with Admin Panel Built with PHP & MySql
+# Full eCommerce Website with Admin Panel Built with PHP & MySql
 
 *BEFORE USE PLEASE NOTE THAT THIS PROJECT IN NOT MAINTAINED BY ME ANYMORE AND IT MAY CONTAIN A LOT OF ERROS, FEEL FREE TO USE IT AS YOU LIKE*
 
