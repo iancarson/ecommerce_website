@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect("localhost","root","root","ecom_store");
+$db = mysqli_connect("localhost","root","","ecom_store","8080");
 
 /// IP address code starts /////
 function getRealUserIp(){
@@ -31,8 +31,6 @@ $count_items = mysqli_num_rows($run_items);
 echo $count_items;
 
 }
-
-
 // items function Ends ///
 
 // total_price function Starts //

@@ -37,8 +37,9 @@ include("includes/main.php");
 <?php
 
 $get_services = "select * from services";
+//$con = mysqli_connect("localhost","root","","ecom_store","8080");
 
-$run_services = mysqli_query($con,$get_services);
+$run_services = mysqli_query($con,$get_services) ;
 
 while($row_services = mysqli_fetch_array($run_services)){
 
