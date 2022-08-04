@@ -2,7 +2,6 @@
 
 	<div class="footer-nav">
 		<div class="container clearfix">
-
 			<div class="footer-nav__col footer-nav__col--info">
 				<div class="footer-nav__heading">Information</div>
 				<ul class="footer-nav__list">
@@ -93,7 +92,7 @@
 		<div class="container clearfix">
 
 			<div class="banner-award">
-				<span>Award winner</span><br> Fashion awards 2016
+				<span>Award winner</span><br> Fashion awards 2022
 			</div>
 
 			<div class="banner-social">
