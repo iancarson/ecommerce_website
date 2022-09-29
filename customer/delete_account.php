@@ -1,7 +1,7 @@
 
 <center>
 
-<h1>Do You Reaaly Want To Delete Your Account!</h1>
+<h1>Do You Really Want To Delete Your Account!</h1>
 
 <form action="" method="post">
 

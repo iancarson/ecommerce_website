@@ -117,15 +117,16 @@
 		<div class="container clearfix">
 
 			<div class="copyright">
-				&copy; 2018 Avenue Fashion&trade;
+				&copy; 2022 Avenue Fashion&trade;
 			</div>
 
 			<div class="developer">
-				Dev by Yasser Dalouzi
+				Developed by Ian.
 			</div>
 
 			<div class="designby">
-				Design by Yasser Dalouzi
+				<li> Initial Design by Yasser Dalouzi</li>
+				<li> Design updated by Ian</li>
 			</div>
 		</div>
 	</div>
